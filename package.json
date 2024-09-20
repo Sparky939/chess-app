@@ -1,0 +1,28 @@
+{
+  "name": "chess-app",
+  "version": "1.0.0",
+  "description": "A React App for playing chess",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sparky939/chess-app.git"
+  },
+  "keywords": [
+    "react",
+    "chess",
+    "webapp"
+  ],
+  "author": "Sparky939",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Sparky939/chess-app/issues"
+  },
+  "homepage": "https://github.com/Sparky939/chess-app#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "typescript": "^5.6.2"
+  }
+}
